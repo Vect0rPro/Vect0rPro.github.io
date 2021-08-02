@@ -8,10 +8,10 @@ Opensource Java Libraries for Dropwizard, Spring Framework, etc...
 
 Dropwizard Swagger 2.x and OpenAPI 3.x Integration
 
-https://github.com/Vect0rPro/dropwizard-swagger
+Link: [https://github.com/Vect0rPro/dropwizard-swagger](https://github.com/Vect0rPro/dropwizard-swagger)
 
 ### Dropwizard Swagger UI
 
 Swagger UI 3.x Static Resources for Dropwizard Swagger Integration
 
-https://github.com/Vect0rPro/dropwizard-swagger-ui
+Link: [https://github.com/Vect0rPro/dropwizard-swagger-ui](https://github.com/Vect0rPro/dropwizard-swagger-ui)
